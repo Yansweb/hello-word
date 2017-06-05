@@ -1,2 +1,8 @@
-# hello-word
-just have a try
+//# hello-word
+//just have a try
+#include <stdio.h>
+
+int main()
+{
+ printf("hello word!");
+}
